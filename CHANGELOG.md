@@ -1,3 +1,9 @@
+Version 1.5.0
+---
+
+### Content
+* Updated all blocks to be compatible with Tailwind CSS `v4`
+
 Version 1.4.2
 ---
 
