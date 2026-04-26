@@ -1,3 +1,9 @@
+Version 1.5.1
+---
+
+### Content
+* Fixed mobile menu buttons not having the right mouse-cursor and transition styles
+
 Version 1.5.0
 ---
 
